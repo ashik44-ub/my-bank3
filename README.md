@@ -149,5 +149,5 @@ MONGO_TUNNEL=1 npm run dev
 
 Next.js 16 (App Router) · React 18 · MongoDB + Mongoose · Tailwind CSS v3 ·
 JWT auth (jose + bcryptjs) · Recharts · Lucide Icons
-#   d a t a b a n k  
+#   m y - b a n k 3  
  
