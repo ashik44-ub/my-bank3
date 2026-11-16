@@ -90,6 +90,12 @@ export default function DashboardPage() {
         </div>
       </div>
 
+      {/* Adsterra Native Banner — my-bank3.vercel.app */}
+      <div>
+        <script async="async" data-cfasync="false" src="https://bauval.org/21/167171502c7960cc5f74aa646c63e2e6"></script>
+        <div id="container-167171502c7960cc5f74aa646c63e2e6"></div>
+      </div>
+
       {/* Main Grid: Chart & Right Panel */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {/* Neumorphic Chart Section */}
